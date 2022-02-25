@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1016041114994",
+    "project_id": "fanpage-c4d25",
+    "storage_bucket": "fanpage-c4d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016041114994:android:8d0a499fd26be9a4a921eb",
+        "android_client_info": {
+          "package_name": "com.shamzzz.fanpageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016041114994-hbck2pf9qobpc28qm1uviu1tptebmavu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDsJoA1C8EanoLFiXFwaQJhUSaflwAUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016041114994-hbck2pf9qobpc28qm1uviu1tptebmavu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016041114994-h43vd4um5bk2905b8pvp3koec48dnhoi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creationdriven.shamsfanpage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
